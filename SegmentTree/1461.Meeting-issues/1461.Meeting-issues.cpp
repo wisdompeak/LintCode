@@ -5,7 +5,8 @@ public:
      * @param pause: The pause time of meetings
      * @param query: The query
      * @return: Return the answer of each query
-     */     
+     */
+     
     class segTree
     {
         public:
@@ -40,7 +41,6 @@ public:
         
         void add(int a, int b)
         {
-            cout<<begin<<" "<<end<<endl;
             if (isOver) return;
             if (begin >= b || end <= a) return;
 		    if (begin >= a && end <= b) 
@@ -70,7 +70,6 @@ public:
     void FindRanges(segTree* root, vector<pair<int,int>>& ranges)
     {
         if (root==NULL) return;
-        //cout<<root->begin<<" "<<root->end<<endl;
         if (root->isOver) 
         {
             ranges.push_back({root->begin,root->end});
@@ -101,12 +100,6 @@ public:
             
             FindRanges(root,pauseRanges);
             
-            /*
-            for (int i=0; i<pauseRanges.size(); i++)
-                cout<<pauseRanges[i].first<<"->"<<pauseRanges[i].second<<" ";
-            cout<<endl;
-            */
-       
             vector<pair<int,int>> runRanges;
             
             if (pauseRanges.size()==0)
@@ -132,13 +125,6 @@ public:
                     runRanges.push_back({start,end});
             }
             
-
-            /*
-            for (int i=0; i<runRanges.size(); i++)
-                cout<<runRanges[i].first<<"->"<<runRanges[i].second<<" ";
-            cout<<endl;
-            */
-            
             for (int i=0; i<runRanges.size(); i++)
             {
                 Set.push_back({runRanges[i].first,1});
@@ -146,14 +132,12 @@ public:
             }
             
             delete root;
-            
         }
         
         sort(Set.begin(),Set.end());
 
         map<int,int>Map;
         int count=0;
-        
         for (auto a:Set)
         {
             if (a.second==1)
@@ -164,7 +148,6 @@ public:
             Map[a.first] = count;
         }
         
-
         vector<int>result;
         for (int i=0; i<query.size(); i++)
         {
@@ -180,6 +163,5 @@ public:
         }
         
         return result;
-        
     }
 };
