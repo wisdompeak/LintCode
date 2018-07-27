@@ -16,7 +16,6 @@ public:
         
         int lower = 0;
         int upper = 0;
-        int leftMustCount = 0;
         int j = 0;
         
         for (int i=0; i<s.size(); i++)
@@ -44,11 +43,8 @@ public:
                 ans -= pq.top();
                 pq.pop();
                 lower = 1;
-                leftMustCount++;
             }
             
-            //cout<<s[i]<<" "<<lower<<" "<<upper<<" "<<leftMustCount<<" "<<ans<<endl;
-
             if (upper<0)
                 return -1;
         }
