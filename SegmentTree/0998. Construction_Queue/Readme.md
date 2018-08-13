@@ -31,3 +31,16 @@
 这种算法的时间复杂度是o(N^2)。遇到大case会超时。问题在于每次循环都要在result里从头开始寻找第K+1个零的位置，显得累赘和重复。一个比较好的方法是利用线段树。
 
 这里的线段树的构造比较简单，对于0~N个数，我们在初始化时直接把这棵树细化到完全满二叉树，即底层的每个节点代表的就是[a,a+1)，不需要在后续的过程中再细化。对于一个节点代表的[a,b)区间，其status表示的是这个区间内含有零的个数。于是我们要找第K个零的位置，只要看node->left->status是否大于等于K：如果是的话就在左子树里找，否则就在右子树里找。知道搜索到最底层的节点，其区间[a,a+1)就代表a就是我们需要在result里赋值的位置。
+```cpp
+    int FindKthZero(SegNode* node, int K)
+    {
+        node->status = node->status-1;
+        if (node->a+1 == node->b)
+            return node->a;
+        int mid = (node->b-node->a)/2+node->a;
+        if (node->left->status>=K)
+            return FindKthZero(node->left,K);
+        else
+            return FindKthZero(node->right,K-node->left->status);
+    }
+```    
