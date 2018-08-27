@@ -8,7 +8,7 @@
 ```cpp
 while (i<N)
 {
-  if (j==0 && array[i]!=array[j]) // i配对不成功,且j已经无路可退,就标记i的配对是-1;下一轮考虑i++
+  if (j==0 && array[i]!=array[j]) // i配对不成功,且j已经无路可退,就标记i的配对是-1;放弃这个i,考虑下一轮的i++
   {
     array[i] = -1;
     i++;
