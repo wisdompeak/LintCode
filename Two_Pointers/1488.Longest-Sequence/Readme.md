@@ -1,4 +1,4 @@
-### 1488.Longest-Sequence
+### 1488.Longest-Sequence (longest arithmetic sequence from a set)
 
 #### 解法1：
 
