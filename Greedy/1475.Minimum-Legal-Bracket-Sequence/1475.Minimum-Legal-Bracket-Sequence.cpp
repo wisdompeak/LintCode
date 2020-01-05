@@ -14,42 +14,40 @@ public:
         for (int i=0; i<b.size(); i++)
             ans += b[i];
         
-        int lower = 0;
-        int upper = 0;
+        int count = 0;
         int j = 0;
         
         for (int i=0; i<s.size(); i++)
         {
             if (s[i]=='(')
             {
-                lower++;
-                upper++;
+                count++;
             }
             else if (s[i]==')')
             {
-                lower--;
-                upper--;
+                count--;
             }
             else if (s[i]=='?')
             {
-                lower--;
-                upper++;
+                count--;
                 pq.push(b[j]-a[j]);
                 j++;
             }
             
-            if (lower<0)
+            if (count<0)
             {
-                ans -= pq.top();
-                pq.pop();
-                lower = 1;
+                if (pq.size()!=0)
+                {
+                    ans -= pq.top();
+                    pq.pop();
+                    count = 1;
+                }
+                else
+                    return -1;
             }
-            
-            if (upper<0)
-                return -1;
         }
         
-        if (lower>0) return -1;
+        if (count>0) return -1;
         
         return ans;
         
