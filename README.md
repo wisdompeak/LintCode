@@ -4,7 +4,7 @@
 | :------------:|:------------ |:---------------:| :-----|
 | [Weekly Contest 15](https://www.lintcode.com/contest/94/) ||||
 |[271](https://www.lintcode.com/problem/prefix-notation-to-postfix-notation/)|[prefix notation to postfix notation](https://github.com/wisdompeak/LintCode/tree/master/Stack/271.prefix-notation-to-postfix-notation)|H|Stack|
-|[275](https://www.lintcode.com/problem/moving-shed)|[275. Moving Shed](https://github.com/wisdompeak/LintCode/tree/master/Greedy/275.Moving-Shed)|E|Greedy|
+|[275](https://www.lintcode.com/problem/moving-shed)|[Moving Shed](https://github.com/wisdompeak/LintCode/tree/master/Greedy/275.Moving-Shed)|E|Greedy|
 |[277](https://www.lintcode.com/problem/word-spacing/)|[Word Spacing](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/277.Word-Spacing)|M|Binary Search|
 |[281](https://www.lintcode.com/problem/paint-the-ceiling)|[Paint the Ceiling](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/281.Paint-the-Ceiling)|M|Two Pointers|
 | [Weekly Contest 16](https://www.lintcode.com/contest/95/) ||||
