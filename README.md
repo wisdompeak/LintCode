@@ -6,8 +6,7 @@
 |[257](https://www.lintcode.com/problem/longest-string-chain/)|[Longest String Chain](https://github.com/wisdompeak/LintCode/tree/master/Stack/271.prefix-notation-to-postfix-notation)|M|DP|
 |[265](https://www.lintcode.com/problem/maximum-non-negative-subarray)|[Maximum Non-Negative Subarray](https://github.com/wisdompeak/LintCode/tree/master/Greedy/275.Moving-Shed)|M|DP|
 |[261](https://www.lintcode.com/problem/maximum-connected-area/)|[Maximum Connected Area](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/277.Word-Spacing)|M|DFS|
-|[274](https://www.lintcode.com/problem/make-binary-tree-average/)|[Make binary tree average
-](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/281.Paint-the-Ceiling)|H+|Recursion,Tree|
+|[274](https://www.lintcode.com/problem/make-binary-tree-average/)|[Make binary tree average](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/281.Paint-the-Ceiling)|H+|Recursion,Tree|
 | [Weekly Contest 15](https://www.lintcode.com/contest/94/) ||||
 |[271](https://www.lintcode.com/problem/prefix-notation-to-postfix-notation/)|[prefix notation to postfix notation](https://github.com/wisdompeak/LintCode/tree/master/Stack/271.prefix-notation-to-postfix-notation)|H|Stack|
 |[275](https://www.lintcode.com/problem/moving-shed)|[Moving Shed](https://github.com/wisdompeak/LintCode/tree/master/Greedy/275.Moving-Shed)|E|Greedy|
