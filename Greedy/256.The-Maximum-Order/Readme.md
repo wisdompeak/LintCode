@@ -1,4 +1,4 @@
-人话翻译：
+#### 人话翻译：
 
 每天固定最多消耗demand个物品。
 已经有一批物品onHand，onHand[i]表示了每件物品的保质期
@@ -10,10 +10,8 @@
 1 <= m,n <= 10^5
 1 <= demand <= m+n
 0 <= onHand[i],supplier[j] <= 10^5
-​​
-=====================
 
-直观的模拟：
+#### 直观的模拟：
 
 假设每天固定计划消耗demand个物品。
 need: {0, demand}, {1, demand}, {2, demand}, {3, demand}, {4, demand}, ...
