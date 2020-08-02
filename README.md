@@ -10,7 +10,7 @@
 | [Weekly Contest 16](https://www.lintcode.com/contest/95/) ||||
 |[291](https://www.lintcode.com/problem/second-diameter/)|[Second Diameter](https://github.com/wisdompeak/LintCode/tree/master/BFS/291.Second-Diameter)|H|BFS,Graph|
 |[290](https://www.lintcode.com/problem/sorted-arrangement)|[Sorted Arrangement](https://github.com/wisdompeak/LintCode/tree/master/SegmentTree/290.Sorted-Arrangement)|H|BIT|
-|[273](https://www.lintcode.com/problem/test-strategy/)|[Test Strategy](https://github.com/wisdompeak/LintCode/tree/master/DP)|M|DP|
+|[273](https://www.lintcode.com/problem/test-strategy/)|[Test Strategy](https://github.com/wisdompeak/LintCode/tree/master/DP/273.Test-Strategy)|M|DP|
 | [Weekly Contest 17](https://www.lintcode.com/contest/96/) ||||
 |[256](https://www.lintcode.com/problem/the-maximum-order/)|[The Maximum Order](https://github.com/wisdompeak/LintCode/tree/master/Greedy/256.The-Maximum-Order)|M+|Greedy|
 |[1313](https://www.lintcode.com/problem/bipartite-graph/)|[Bipartite Graph](https://github.com/wisdompeak/LintCode/tree/master/Union_find/1313.Bipartite-Graph)|H-|Union Find|
