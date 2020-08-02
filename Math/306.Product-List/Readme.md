@@ -1,3 +1,5 @@
+
+```
 	offset     offset+n
 	  |____________|
 
@@ -5,6 +7,7 @@
  0       len1        len1+len2
 
       |<-->|<----->|   
+```
 
 range1: 
 s1 = min(offset, len1);
