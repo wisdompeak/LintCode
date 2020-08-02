@@ -5,7 +5,7 @@
 | [Weekly Contest 14](https://www.lintcode.com/contest/93/) ||||
 |[257](https://www.lintcode.com/problem/longest-string-chain/)|[Longest String Chain](https://github.com/wisdompeak/LintCode/tree/master/DP/257.Longest-String-Chain)|M|DP|
 |[265](https://www.lintcode.com/problem/maximum-non-negative-subarray)|[Maximum Non-Negative Subarray](https://github.com/wisdompeak/LintCode/tree/master/DP/265.Maximum-Non-Negative-Subarray)|M|DP|
-|[261](https://www.lintcode.com/problem/maximum-connected-area/)|[Maximum Connected Area]https://github.com/wisdompeak/LintCode/tree/master/DFS/261.Maximum-Connected-Area)|M|DFS|
+|[261](https://www.lintcode.com/problem/maximum-connected-area/)|[Maximum Connected Area](https://github.com/wisdompeak/LintCode/tree/master/DFS/261.Maximum-Connected-Area)|M|DFS|
 |[274](https://www.lintcode.com/problem/make-binary-tree-average/)|[Make binary tree average](https://github.com/wisdompeak/LintCode/tree/master/Recursion/274.Make-binary-tree-average)|H+|Recursion,Tree|
 | [Weekly Contest 15](https://www.lintcode.com/contest/94/) ||||
 |[271](https://www.lintcode.com/problem/prefix-notation-to-postfix-notation/)|[prefix notation to postfix notation](https://github.com/wisdompeak/LintCode/tree/master/Stack/271.prefix-notation-to-postfix-notation)|H|Stack|
