@@ -9,7 +9,7 @@
 
 LeetCode 1048. Longest String Chain
 
-很明显的“传递”的线索：word_1是word_2的前身，那么word_2的词链长度就是word_1的词链长度+1 , 即 dp[word_2] = dp[word_1] + 1 if word_1 + ?  = word_2
+很明显的“传递”的线索：word_1是word_2的前身，那么word_2的词链长度就是word_1的词链长度+1 , 即 ```dp[word_2] = dp[word_1] + 1 if word_1 + ?  = word_2```
 
 为了构造DP要求的“无后效性”，我们将所有单词按照长度排序。这样，单词j的前身一定是在i<j的范围中。
 ```cpp
