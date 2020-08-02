@@ -3,7 +3,7 @@
 |Contest | Problem | Difficuilty  | Tags |
 | :------------:|:------------ |:---------------:| :-----|
 | [Weekly Contest 17](https://www.lintcode.com/contest/96/) ||||
-|[256](https://www.lintcode.com/problem/the-maximum-order//)|[The Maximum Order](https://github.com/wisdompeak/LintCode/tree/master/Greedy/256.The-Maximum-Order)|M+|Greedy|
+|[256](https://www.lintcode.com/problem/the-maximum-order/)|[The Maximum Order](https://github.com/wisdompeak/LintCode/tree/master/Greedy/256.The-Maximum-Order)|M+|Greedy|
 |[1313](https://www.lintcode.com/problem/bipartite-graph/)|[Bipartite Graph](https://github.com/wisdompeak/LintCode/tree/master/Union_find/1313.Bipartite-Graph)|H-|Union Find|
 | [Weekly Contest 18](https://www.lintcode.com/contest/97/) ||||
 |[306](https://www.lintcode.com/problem/product-list)|[Product List](https://github.com/wisdompeak/LintCode/tree/master/Math/306.Product-List)|M|Math|
