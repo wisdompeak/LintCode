@@ -2,13 +2,16 @@
 
 |Contest | Problem | Difficuilty  | Tags |
 | :------------:|:------------ |:---------------:| :-----|
+| [Weekly Contest 10](https://www.lintcode.com/contest/89/) ||||
+|[1131](https://www.lintcode.com/problem/the-function-in-permutations)|[The Function in Permutations](https://github.com/wisdompeak/LintCode/tree/master/Math/1131.The-Function-in-Permutations)|M+|Math|
+|[1904](https://www.lintcode.com/problem/put-small-ball)|[Put small balls](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/1904.Put-small-balls)|H|Binary Search, DP|
 | [Weekly Contest 11](https://www.lintcode.com/contest/90/) ||||
 |[1882](https://www.lintcode.com/problem/fair-indexes)|[Fair Indexes](https://github.com/wisdompeak/LintCode/tree/master/Others/1882.Fair-Indexes)|M|Others|
 |[1828](https://www.lintcode.com/problem/lake-escape)|[Lake Escape](https://github.com/wisdompeak/LintCode/tree/master/DFS/1828.Lake-Escape)|H-|DFS|
 | [Weekly Contest 13](https://www.lintcode.com/contest/92/) ||||
 |[266](https://www.lintcode.com/problem/expect-distance/)|[Expect Distance](https://github.com/wisdompeak/LintCode/tree/master/Math/266.Expect-Distance)|H|Math|
 |[264](https://www.lintcode.com/problem/counting-universal-subarrays)|[Counting Universal Subarrays](https://github.com/wisdompeak/LintCode/tree/master/Others/264.Counting-Universal-Subarrays)|M|Others|
-|[240](https://www.lintcode.com/problem/program-check/)|[Program Check](https://github.com/wisdompeak/LintCode/tree/master/DFS/240.Program-Check)|H|DFS,BFS,Graph|
+|[240](https://www.lintcode.com/problem/program-check/)|[Program Check](https://github.com/wisdompeak/LintCode/tree/master/DFS/240.Program-Check)|H|DFS, BFS, Graph|
 | [Weekly Contest 14](https://www.lintcode.com/contest/93/) ||||
 |[257](https://www.lintcode.com/problem/longest-string-chain/)|[Longest String Chain](https://github.com/wisdompeak/LintCode/tree/master/DP/257.Longest-String-Chain)|M|DP|
 |[265](https://www.lintcode.com/problem/maximum-non-negative-subarray)|[Maximum Non-Negative Subarray](https://github.com/wisdompeak/LintCode/tree/master/DP/265.Maximum-Non-Negative-Subarray)|M|DP|
@@ -29,8 +32,8 @@
 | [Weekly Contest 18](https://www.lintcode.com/contest/97/) ||||
 |[306](https://www.lintcode.com/problem/product-list)|[Product List](https://github.com/wisdompeak/LintCode/tree/master/Math/306.Product-List)|M|Math|
 |[304](https://www.lintcode.com/problem/maximum-product)|[Maximum product](https://github.com/wisdompeak/LintCode/tree/master/Math/304.Maximum-product)|M+|Math|
-|[301](https://www.lintcode.com/problem/lucky-number-ii/)|[Lucky Number II](https://github.com/wisdompeak/LintCode/tree/master/DFS/301.Lucky-Number-II)|H|DFS,BFS|
-|[300](https://www.lintcode.com/problem/meeting-room-iv)|[Meeting Room IV](https://github.com/wisdompeak/LintCode/tree/master/DP/300.Meeting-Room-IV)|H-|DP,Heap|
+|[301](https://www.lintcode.com/problem/lucky-number-ii/)|[Lucky Number II](https://github.com/wisdompeak/LintCode/tree/master/DFS/301.Lucky-Number-II)|H|DFS, BFS|
+|[300](https://www.lintcode.com/problem/meeting-room-iv)|[Meeting Room IV](https://github.com/wisdompeak/LintCode/tree/master/DP/300.Meeting-Room-IV)|H-|DP, Heap|
 | [Weekly Contest 19](https://www.lintcode.com/contest/98/) ||||
 |[307](https://www.lintcode.com/problem/transform-string/)|[Transform String](https://github.com/wisdompeak/LintCode/tree/master/Greedy/307.Transform-String)|H-|Greedy|
 |[1735](https://www.lintcode.com/problem/super-palindromes/)|[Super Palindromes](https://github.com/wisdompeak/LintCode/tree/master/Others/1735.Super-Palindromes)|H|Others|
