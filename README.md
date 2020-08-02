@@ -2,6 +2,10 @@
 
 |Contest | Problem | Difficuilty  | Tags |
 | :------------:|:------------ |:---------------:| :-----|
+| [Weekly Contest 13](https://www.lintcode.com/contest/92/) ||||
+|[266](https://www.lintcode.com/problem/expect-distance/)|[Expect Distance](https://github.com/wisdompeak/LintCode/tree/master/Math/266.Expect-Distance)|H|Math|
+|[264](https://www.lintcode.com/problem/counting-universal-subarrays)|[Counting Universal Subarrays](https://github.com/wisdompeak/LintCode/tree/master/Others/264.Counting-Universal-Subarrays)|M|Others|
+|[240](https://www.lintcode.com/problem/program-check/)|[Program Check](https://github.com/wisdompeak/LintCode/tree/master/DFS/240.Program-Check)|H|DFS,BFS,Graph|
 | [Weekly Contest 14](https://www.lintcode.com/contest/93/) ||||
 |[257](https://www.lintcode.com/problem/longest-string-chain/)|[Longest String Chain](https://github.com/wisdompeak/LintCode/tree/master/DP/257.Longest-String-Chain)|M|DP|
 |[265](https://www.lintcode.com/problem/maximum-non-negative-subarray)|[Maximum Non-Negative Subarray](https://github.com/wisdompeak/LintCode/tree/master/DP/265.Maximum-Non-Negative-Subarray)|M|DP|
