@@ -2,6 +2,12 @@
 
 |Contest | Problem | Difficuilty  | Tags |
 | :------------:|:------------ |:---------------:| :-----|
+
+| [Weekly Contest 15](https://www.lintcode.com/contest/94/) ||||
+|[271](https://www.lintcode.com/problem/prefix-notation-to-postfix-notation/)|[prefix notation to postfix notation](https://github.com/wisdompeak/LintCode/tree/master/Stack/271.prefix-notation-to-postfix-notation)|H|Stack|
+|[275](https://www.lintcode.com/problem/moving-shed)|[275. Moving Shed](https://github.com/wisdompeak/LintCode/tree/master/Greedy/275.Moving-Shed)|E|Greedy|
+|[277](https://www.lintcode.com/problem/word-spacing/)|[Word Spacing](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/277.Word-Spacing)|M|Binary Search|
+|[281](https://www.lintcode.com/problem/paint-the-ceiling)|[Paint the Ceiling](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/281.Paint-the-Ceiling)|M|Two Pointers|
 | [Weekly Contest 16](https://www.lintcode.com/contest/95/) ||||
 |[291](https://www.lintcode.com/problem/second-diameter/)|[Second Diameter](https://github.com/wisdompeak/LintCode/tree/master/BFS/291.Second-Diameter)|H|BFS,Graph|
 |[290](https://www.lintcode.com/problem/sorted-arrangement)|[Sorted Arrangement](https://github.com/wisdompeak/LintCode/tree/master/SegmentTree/290.Sorted-Arrangement)|H|BIT|
