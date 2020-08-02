@@ -2,6 +2,9 @@
 
 |Contest | Problem | Difficuilty  | Tags |
 | :------------:|:------------ |:---------------:| :-----|
+| [Weekly Contest 11](https://www.lintcode.com/contest/90/) ||||
+|[1882](https://www.lintcode.com/problem/fair-indexes)|[Fair Indexes](https://github.com/wisdompeak/LintCode/tree/master/Others/1882.Fair-Indexes)|M|Others|
+|[1828](https://www.lintcode.com/problem/lake-escape)|[Lake Escape](https://github.com/wisdompeak/LintCode/tree/master/DFS/1828.Lake-Escape)|H-|DFS|
 | [Weekly Contest 13](https://www.lintcode.com/contest/92/) ||||
 |[266](https://www.lintcode.com/problem/expect-distance/)|[Expect Distance](https://github.com/wisdompeak/LintCode/tree/master/Math/266.Expect-Distance)|H|Math|
 |[264](https://www.lintcode.com/problem/counting-universal-subarrays)|[Counting Universal Subarrays](https://github.com/wisdompeak/LintCode/tree/master/Others/264.Counting-Universal-Subarrays)|M|Others|
