@@ -37,4 +37,8 @@
 | [Weekly Contest 19](https://www.lintcode.com/contest/98/) ||||
 |[307](https://www.lintcode.com/problem/transform-string/)|[Transform String](https://github.com/wisdompeak/LintCode/tree/master/Greedy/307.Transform-String)|H-|Greedy|
 |[1735](https://www.lintcode.com/problem/super-palindromes/)|[Super Palindromes](https://github.com/wisdompeak/LintCode/tree/master/Others/1735.Super-Palindromes)|H|Others|
+| [Weekly Contest 20](https://www.lintcode.com/contest/99/) ||||
+|[314](https://www.lintcode.com/problem/the-lost-record/)|[The Lost Record](https://github.com/wisdompeak/LintCode/tree/master/Greedy/314.The-Lost-Record)|M|Greedy|
+|[313](https://www.lintcode.com/problem/minimum-insertion/)|[Minimum Insertion](https://github.com/wisdompeak/LintCode/tree/master/DP/313.Minimum-Insertion)|H-|DP|
+|[317](https://www.lintcode.com/problem/minimum-parentheses-matching)|[Minimum Parentheses Matching](https://github.com/wisdompeak/LintCode/tree/master/Greedy/317.Minimum-Parentheses-Matching)|H|Greedy|
 ||||
