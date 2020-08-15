@@ -42,6 +42,6 @@
 |[313](https://www.lintcode.com/problem/minimum-insertion/)|[Minimum Insertion](https://github.com/wisdompeak/LintCode/tree/master/DP/313.Minimum-Insertion)|H-|DP|
 |[317](https://www.lintcode.com/problem/minimum-parentheses-matching)|[Minimum Parentheses Matching](https://github.com/wisdompeak/LintCode/tree/master/Greedy/317.Minimum-Parentheses-Matching)|H|Greedy|
 | [Weekly Contest 21](https://www.lintcode.com/contest/100/) ||||
-|[312](https://www.lintcode.com/problem/Bull-Cards/)|[Bull Cards](https://github.com/wisdompeak/LintCode/tree/master/DP/312.Bull-Cards)|H-|DP|
-|[319](https://www.lintcode.com/problem/Square-Queue/)|[Square Queue](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/319.Square-Queue)|M|Binary Search|
+|[312](https://www.lintcode.com/problem/bull-cards/)|[Bull Cards](https://github.com/wisdompeak/LintCode/tree/master/DP/312.Bull-Cards)|H-|DP|
+|[319](https://www.lintcode.com/problem/square-queue/)|[Square Queue](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/319.Square-Queue)|M|Binary Search|
 ||||
