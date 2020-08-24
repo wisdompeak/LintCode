@@ -9,33 +9,27 @@ public:
         unordered_map<int,vector<int>>Map;        
         for (int i=0; i<a.size(); i++)
             Map[a[i]].push_back(i);
-        unordered_map<int,long long>pre;
-        unordered_map<int,long long>suf;
-        unordered_map<int,int>idx;
+            
+        vector<long long>rets(a.size());
         
         for (auto kv : Map)
         {
-            int x = kv.first;
             vector<int> pos = kv.second;
-            idx[x] = 0;
-            pre[x] = 0;
+            int n = pos.size();
+            vector<long long>pre(n);
+            vector<long long>suf(n);
+            
+            pre[0] = 0;
             for (int i=0; i<pos.size(); i++)
-                suf[x] += pos[i]-pos[0];
-        }
-        
-        vector<long long>rets;
-        for (auto x: a)
-        {
-            int i = idx[x];
-            if (i==0)
-                rets.push_back(pre[x]+suf[x]);
-            else
+                suf[0] += pos[i]-pos[0];
+            rets[pos[0]] = pre[0] + suf[0];
+            
+            for (int i=1; i<pos.size(); i++)
             {
-                pre[x] += (Map[x][i]-Map[x][i-1])*i;
-                suf[x] -= (Map[x][i]-Map[x][i-1])*(Map[x].size()-i);
-                rets.push_back(pre[x]+suf[x]);
+                pre[i] = pre[i-1] + (pos[i]-pos[i-1])*i;
+                suf[i] = suf[i-1] - (pos[i]-pos[i-1])*(n-i);
+                rets[pos[i]] = pre[i] + suf[i];
             }
-            idx[x] += 1;            
         }
         
         return rets;
