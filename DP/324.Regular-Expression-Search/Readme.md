@@ -155,7 +155,7 @@ Step 4. 接下来我们考虑'$'的作用，同样判断p是否能匹配s或者s
     }
 ```
 
-Step 5. 本题中，先不考虑'^'的情况下，我们要判断p能否匹配queryString的某个子串，可以遍历这个子串的起始点start。于是问题转化为，判断p能否匹配queryString.substr(start)或它的前缀。
+Step 5. 本题中，先不考虑'^'的情况下，我们要判断p能否匹配queryString的某个子串，可以遍历这个子串的起始点start。于是问题转化为，判断p能否匹配某个子串queryString.substr(start)或它的前缀。
 ```cpp
 int flag = 0;
 for (int start = 0; start < queryString.size(); start++)
