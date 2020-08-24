@@ -44,4 +44,9 @@
 | [Weekly Contest 21](https://www.lintcode.com/contest/100/) ||||
 |[312](https://www.lintcode.com/problem/bull-cards/)|[Bull Cards](https://github.com/wisdompeak/LintCode/tree/master/DP/312.Bull-Cards)|H-|DP|
 |[319](https://www.lintcode.com/problem/square-queue/)|[Square Queue](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/319.Square-Queue)|M|Binary Search|
+| [Weekly Contest 22](https://www.lintcode.com/contest/101/) ||||
+|[322](https://www.lintcode.com/problem/chess-game/)|[Chess Game](https://github.com/wisdompeak/LintCode/tree/master/Others/322.Chess-Game)|M+|Others|
+|[327](https://www.lintcode.com/problem/distance-metrics/)|[Distance Metric](https://github.com/wisdompeak/LintCode/tree/master/Others/327.Distance-Metrics)|M+|Others|
+|[325](https://www.lintcode.com/problem/Football/)|[Football](https://github.com/wisdompeak/LintCode/tree/master/DP/325.Football)|H-|DP|
+|[324](https://www.lintcode.com/problem/regular-expression-search/)|[Regular Expression Search](https://github.com/wisdompeak/LintCode/tree/master/DP/324.Regular-Expression-Search)|H+|DP|
 ||||
