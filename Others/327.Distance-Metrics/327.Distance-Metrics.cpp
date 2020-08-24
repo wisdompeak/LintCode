@@ -1,42 +1,39 @@
-#include <bits/stdc++.h>
-
 class Solution {
 public:
     /**
-     * an integer array
-     * @param a int整型vector an integer array
-     * @return int整型vector
+     * @param a: an integer posay
+     * @return: an integer posay
      */
-    vector<int> getDistanceMetrics(vector<int>& a) 
+    vector<long long> getDistanceMetrics(vector<int> &a) 
     {
         unordered_map<int,vector<int>>Map;        
         for (int i=0; i<a.size(); i++)
             Map[a[i]].push_back(i);
-        unordered_map<int,int>sum1;
-        unordered_map<int,int>sum2;
+        unordered_map<int,long long>pre;
+        unordered_map<int,long long>suf;
         unordered_map<int,int>idx;
         
         for (auto kv : Map)
         {
             int x = kv.first;
-            vector<int> arr = kv.second;
+            vector<int> pos = kv.second;
             idx[x] = 0;
-            sum1[x] = 0;
-            for (int i=0; i<arr.size(); i++)
-                sum2[x] += arr[i]-arr[0];
+            pre[x] = 0;
+            for (int i=0; i<pos.size(); i++)
+                suf[x] += pos[i]-pos[0];
         }
         
-        vector<int>rets;
+        vector<long long>rets;
         for (auto x: a)
         {
             int i = idx[x];
             if (i==0)
-                rets.push_back(sum1[x]+sum2[x]);
+                rets.push_back(pre[x]+suf[x]);
             else
             {
-                sum1[x] += (Map[x][i]-Map[x][i-1])*i;
-                sum2[x] -= (Map[x][i]-Map[x][i-1])*(Map[x].size()-i);
-                rets.push_back(sum1[x]+sum2[x]);
+                pre[x] += (Map[x][i]-Map[x][i-1])*i;
+                suf[x] -= (Map[x][i]-Map[x][i-1])*(Map[x].size()-i);
+                rets.push_back(pre[x]+suf[x]);
             }
             idx[x] += 1;            
         }
