@@ -49,4 +49,8 @@
 |[327](https://www.lintcode.com/problem/distance-metrics/)|[Distance Metric](https://github.com/wisdompeak/LintCode/tree/master/Others/327.Distance-Metrics)|M+|Others|
 |[325](https://www.lintcode.com/problem/Football/)|[Football](https://github.com/wisdompeak/LintCode/tree/master/DP/325.Football)|H-|DP|
 |[324](https://www.lintcode.com/problem/regular-expression-search/)|[Regular Expression Search](https://github.com/wisdompeak/LintCode/tree/master/DP/324.Regular-Expression-Search)|H+|DP|
+| [Weekly Contest 23](https://www.lintcode.com/contest/102/) ||||
+|[330](https://www.lintcode.com/problem/increasing-number/)|[Increasing Number](https://github.com/wisdompeak/LintCode/tree/master/DFS/330.Increasing-Number)|H-|DFS|
+|[323](https://www.lintcode.com/problem/restorearray/)|[Restore Array](https://github.com/wisdompeak/LintCode/tree/master/DP/332.Restore-Array)|M+|DP|
+|[328](https://www.lintcode.com/problem/string-partition/)|[String Partitionball](https://github.com/wisdompeak/LintCode/tree/master/Greedy/328.String-Partition)|H|Greedy|
 ||||
