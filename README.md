@@ -53,4 +53,8 @@
 |[330](https://www.lintcode.com/problem/increasing-number/)|[Increasing Number](https://github.com/wisdompeak/LintCode/tree/master/DFS/330.Increasing-Number)|H-|DFS|
 |[323](https://www.lintcode.com/problem/restorearray/)|[Restore Array](https://github.com/wisdompeak/LintCode/tree/master/DP/332.Restore-Array)|M+|DP|
 |[328](https://www.lintcode.com/problem/string-partition/)|[String Partitionball](https://github.com/wisdompeak/LintCode/tree/master/Greedy/328.String-Partition)|H|Greedy|
+| [Weekly Contest 24](https://www.lintcode.com/contest/103/) ||||
+|[359](https://www.lintcode.com/problem/makeequilateraltriangle/)|[Make Equilateral Triangle](https://github.com/wisdompeak/LintCode/tree/master/Math/359.Make-Equilateral-Triangle)|M-|Math|
+|[357](https://www.lintcode.com/problem/symmetrical-suffix/)|[Symmetrical Suffix](https://github.com/wisdompeak/LintCode/tree/master/DP/357.Symmetrical-Suffix)|H-|DP|
+|[355](https://www.lintcode.com/problem/shuttleinbuildings/)|[Shuttle In Buildings](https://github.com/wisdompeak/LintCode/tree/master/DP/355.Shuttle-In-Buildings)|H-|DP, Stack|
 ||||
