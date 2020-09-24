@@ -57,4 +57,8 @@
 |[359](https://www.lintcode.com/problem/makeequilateraltriangle/)|[Make Equilateral Triangle](https://github.com/wisdompeak/LintCode/tree/master/Math/359.Make-Equilateral-Triangle)|M-|Math|
 |[357](https://www.lintcode.com/problem/symmetrical-suffix/)|[Symmetrical Suffix](https://github.com/wisdompeak/LintCode/tree/master/DP/357.Symmetrical-Suffix)|H-|DP|
 |[355](https://www.lintcode.com/problem/shuttleinbuildings/)|[Shuttle In Buildings](https://github.com/wisdompeak/LintCode/tree/master/DP/355.Shuttle-In-Buildings)|H-|DP, Stack|
+| [Weekly Contest 26](https://www.lintcode.com/contest/105/) ||||
+|[339](https://www.lintcode.com/problem/median-ii/)|[Median II](https://github.com/wisdompeak/LintCode/tree/master/Others/339.Median-II)|M-|Math|
+|[342](https://www.lintcode.com/problem/valley-sequence/)|[Valley Sequence](https://github.com/wisdompeak/LintCode/tree/master/DP/342.Valley-sequence)|M|DP|
+|[340](https://www.lintcode.com/problem/red-and-black-chess/)|[Red and Black Chess](https://github.com/wisdompeak/LintCode/tree/master/DP/340.Red-and-Black-Chess)|H|DP, Math|
 ||||
