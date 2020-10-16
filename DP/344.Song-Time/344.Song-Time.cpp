@@ -18,10 +18,8 @@ public:
             auto dp2 = dp;
             for (int t=1; t<M; t++)
             {
-                // if (t-song[i]>=0 && dp2[t-song[i]]==1)
-                //     dp[t] = 1;
-                if (dp2[t]==true)
-                	dp[t+song[i]] = true;
+                if (t-song[i]>=0 && dp2[t-song[i]]==1)
+                   dp[t] = 1;
             }
         }
         
