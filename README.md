@@ -61,4 +61,7 @@
 |[339](https://www.lintcode.com/problem/median-ii/)|[Median II](https://github.com/wisdompeak/LintCode/tree/master/Others/339.Median-II)|M-|Math|
 |[342](https://www.lintcode.com/problem/valley-sequence/)|[Valley Sequence](https://github.com/wisdompeak/LintCode/tree/master/DP/342.Valley-sequence)|M|DP|
 |[340](https://www.lintcode.com/problem/red-and-black-chess/)|[Red and Black Chess](https://github.com/wisdompeak/LintCode/tree/master/DP/340.Red-and-Black-Chess)|H|DP, Math|
+| [Weekly Contest 27](https://www.lintcode.com/contest/106/) ||||
+|[344](https://www.lintcode.com/problem/song-time/)|[Song Time](https://github.com/wisdompeak/LintCode/tree/master/DP/344.Song-Time)|H-|DP, Greedy|
 ||||
+
