@@ -63,5 +63,9 @@
 |[340](https://www.lintcode.com/problem/red-and-black-chess/)|[Red and Black Chess](https://github.com/wisdompeak/LintCode/tree/master/DP/340.Red-and-Black-Chess)|H|DP, Math|
 | [Weekly Contest 27](https://www.lintcode.com/contest/106/) ||||
 |[344](https://www.lintcode.com/problem/song-time/)|[Song Time](https://github.com/wisdompeak/LintCode/tree/master/DP/344.Song-Time)|H-|DP, Greedy|
+| [Weekly Contest 28](https://www.lintcode.com/contest/107/) ||||
+|[352](https://www.lintcode.com/problem/prettyprint/)|[Pretty-Print](https://github.com/wisdompeak/LintCode/tree/master/String/352.Pretty-Print)|M+|String|
+|[331](https://www.lintcode.com/problem/confusing-number/)|[Confusing Number](https://github.com/wisdompeak/LintCode/tree/master/DFS/331.Confusing-Number)|H-|DFS|
+|[349](https://www.lintcode.com/problem/developer-tester-integration/)|[Developer-Tester Integration](https://github.com/wisdompeak/LintCode/tree/master/DP/349.Developer-Tester-Integration)|H|DP, PreSum|
 ||||
 
