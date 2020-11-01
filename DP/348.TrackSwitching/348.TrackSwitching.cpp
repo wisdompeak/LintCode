@@ -24,13 +24,7 @@ public:
             }
             
             for (int j=1; j<=3; j++)
-                dp[i+1][obs] = min(dp[i+1][obs], dp[i+1][j]+1);
-                
-            // cout<<i<<endl;
-            // for (int j=1; j<=3; j++)
-            //     cout<<dp[i+1][j]<<" ";
-            // cout<<endl;
-            
+                dp[i+1][obs] = min(dp[i+1][obs], dp[i+1][j]+1);                
         }
         
         int ret = INT_MAX/2;
