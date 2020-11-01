@@ -71,9 +71,5 @@
 |[295](https://www.lintcode.com/problem/intersection/)|[Intersection](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/295.Intersection)|M+|Two Pointers|
 |[348](https://www.lintcode.com/problem/trackswitching/)|[Track Switching](https://github.com/wisdompeak/LintCode/tree/master/DP/348.TrackSwitching)|M+|DP|
 |[354](https://www.lintcode.com/problem/lottery-draw/)|[Lottery Draw](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/354.lottery-draw)|H-|Binary Search|
-
-
-
-
 ||||
 
