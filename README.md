@@ -67,5 +67,13 @@
 |[352](https://www.lintcode.com/problem/prettyprint/)|[Pretty-Print](https://github.com/wisdompeak/LintCode/tree/master/String/352.Pretty-Print)|M+|String|
 |[331](https://www.lintcode.com/problem/confusing-number/)|[Confusing Number](https://github.com/wisdompeak/LintCode/tree/master/DFS/331.Confusing-Number)|H-|DFS|
 |[349](https://www.lintcode.com/problem/developer-tester-integration/)|[Developer-Tester Integration](https://github.com/wisdompeak/LintCode/tree/master/DP/349.Developer-Tester-Integration)|H|DP, PreSum|
+| [Weekly Contest 29](https://www.lintcode.com/contest/108/) ||||
+|[295](https://www.lintcode.com/problem/intersection/)|[Intersection](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/295.Intersection)|M+|Two Pointers|
+|[348](https://www.lintcode.com/problem/trackswitching/)|[Track Switching](https://github.com/wisdompeak/LintCode/tree/master/DP/348.TrackSwitching)|M+|DP|
+|[354](https://www.lintcode.com/problem/lottery-draw/)|[Lottery Draw](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/354.lottery-draw)|H-|Binary Search|
+
+
+
+
 ||||
 
