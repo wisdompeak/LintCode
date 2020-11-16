@@ -75,5 +75,8 @@
 |[962](https://www.lintcode.com/problem/condition-string/)|[Condition string](https://github.com/wisdompeak/LintCode/tree/master/DP/962.Condition-string)|M+|DP|
 |[963](https://www.lintcode.com/problem/the-judges-give-problem/)|[The Judges Give Problem](https://github.com/wisdompeak/LintCode/tree/master/Binary-Search/963.The-Judges-Give-Problem)|H-|Binary Search|
 |[964](https://www.lintcode.com/problem/food-set/)|[Food Set](https://github.com/wisdompeak/LintCode/tree/master/Greedy/964.Food-Set)|H-|Greedy|
+| [Weekly Contest 31](https://www.lintcode.com/contest/111/) ||||
+|[965](https://www.lintcode.com/problem/lr-string/)|[LR string](https://github.com/wisdompeak/LintCode/tree/master/Greedy/965.LR-String)|H-|Greedy|
+|[967](https://www.lintcode.com/problem/quality-inspection/)|[Quality Inspection](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/967.Quality-Inspection)|H-|Two Pointers|
 ||||
 
