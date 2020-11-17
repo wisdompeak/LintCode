@@ -80,6 +80,6 @@
 |[967](https://www.lintcode.com/problem/quality-inspection/)|[Quality Inspection](https://github.com/wisdompeak/LintCode/tree/master/Two_Pointers/967.Quality-Inspection)|H-|Two Pointers|
 | [Weekly Contest 31](https://www.lintcode.com/contest/112/) ||||
 |[968](https://www.lintcode.com/problem/valid-currency-amount/)|[Valid Currency Amount](https://github.com/wisdompeak/LintCode/tree/master/String/968.Valid-Currency-Amount)|H-|String|
-|[968](https://www.lintcode.com/problem/array distance/)|[Array Distance](https://github.com/wisdompeak/LintCode/tree/master/DP/561.Array-Distance)|H|Greedy, DP|
+|[968](https://www.lintcode.com/problem/array-distance/)|[Array Distance](https://github.com/wisdompeak/LintCode/tree/master/DP/561.Array-Distance)|H|Greedy, DP|
 ||||
 
