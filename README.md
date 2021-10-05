@@ -83,3 +83,5 @@
 |[561](https://www.lintcode.com/problem/array-distance/)|[Array Distance](https://github.com/wisdompeak/LintCode/tree/master/DP/561.Array-Distance)|H|Greedy, DP|
 ||||
 
+### Dynamic Programing
+[1381.Maximum-Line-Coverage](https://github.com/wisdompeak/LintCode/tree/master/DP/1381.Maximum-Line-Coverage) (H)    
